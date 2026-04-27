@@ -1,8 +1,6 @@
 # Government / Municipal
 
-Services
-
-Infrastructure Project
+Services / Infrastructure Project
 
 ## 🏛️ Executive Summary
 This repository contains the architecture, configuration, and compliance evidence for the Government / Municipal Services Infrastructure Project. Designed and deployed over a 15-week lifecycle, this enterprise-grade network serves 100,000 citizens across Police, Fire/EMS, Public Works, and City Administration departments. 
